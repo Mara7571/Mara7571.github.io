@@ -1,6 +1,5 @@
 body{
-    background-color: black;
-    color: white;
+    background-color: steelblue;
 }
 
 *{
@@ -20,14 +19,14 @@ p{
 }
 
 h1 {
-	color: white;
+	color: black;
 	text-align: center;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 }
 
 h3,h2 {
 	text-align: center;
-	color: white;
+	color:black;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 }
 
