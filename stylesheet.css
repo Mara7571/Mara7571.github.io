@@ -1,8 +1,6 @@
 body{
-    background-image: url("./image/image2.jpg");
-    background-repeat: no-repeat;
-	background-size: cover;
-	overflow: hidden;
+    background-color: black;
+   text-color: white;
 }
 
 *{
